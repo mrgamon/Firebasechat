@@ -12,3 +12,72 @@
 [info] Public Directory: ./
 [info] 
 [info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files (x86)\nodejs\node.exe C:\Users\OEM\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v6.9.4
+[debug] Time:         Mon Feb 06 2017 22:18:11 GMT+0800 (Malay Peninsula Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\OEM\desktop\Firebasechat\firebasechat\web-start
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files (x86)\nodejs\node.exe C:\Users\OEM\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v6.9.4
+[debug] Time:         Tue Feb 07 2017 21:45:00 GMT+0800 (Malay Peninsula Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\OEM\desktop\firebasechat\firebasechat\web-start
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] Error: EPERM: operation not permitted, rename 'C:\Users\OEM\.config\configstore\firebase-tools.json.351222801' -> 'C:\Users\OEM\.config\configstore\firebase-tools.json'
+    at Error (native)
+    at Object.fs.renameSync (fs.js:809:18)
+    at Function.writeFileSync [as sync] (C:\Users\OEM\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\write-file-atomic\index.js:95:8)
+    at Object.set (C:\Users\OEM\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\configstore\index.js:62:21)
+    at Object.Configstore.set (C:\Users\OEM\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\configstore\index.js:93:11)
+    at Request._callback (C:\Users\OEM\AppData\Roaming\npm\node_modules\firebase-tools\lib\fetchMOTD.js:51:19)
+    at Request.self.callback (C:\Users\OEM\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:186:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (C:\Users\OEM\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:1081:10)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files (x86)\nodejs\node.exe C:\Users\OEM\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v6.9.4
+[debug] Time:         Tue Feb 07 2017 21:45:29 GMT+0800 (Malay Peninsula Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\OEM\desktop\firebasechat\firebasechat\web-start
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files (x86)\nodejs\node.exe C:\Users\OEM\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v6.9.4
+[debug] Time:         Tue Feb 07 2017 21:58:12 GMT+0800 (Malay Peninsula Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\OEM\desktop\firebasechat\firebasechat\web-start
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
